@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0C63E5F3-2A9B-8C40-A446-2123566E586E}") = "Cuisine Combat", "Assembly-CSharp-firstpass.csproj", "{3E66CF7A-7027-C430-1B86-CCDB199F78C8}"
+EndProject
+Project("{0C63E5F3-2A9B-8C40-A446-2123566E586E}") = "Cuisine Combat", "Assembly-CSharp-Editor.csproj", "{A2FE3514-0D55-65EA-7C47-F3FE4080FB34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E66CF7A-7027-C430-1B86-CCDB199F78C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E66CF7A-7027-C430-1B86-CCDB199F78C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E66CF7A-7027-C430-1B86-CCDB199F78C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E66CF7A-7027-C430-1B86-CCDB199F78C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FE3514-0D55-65EA-7C47-F3FE4080FB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FE3514-0D55-65EA-7C47-F3FE4080FB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FE3514-0D55-65EA-7C47-F3FE4080FB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FE3514-0D55-65EA-7C47-F3FE4080FB34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
